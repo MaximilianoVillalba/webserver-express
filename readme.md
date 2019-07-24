@@ -1,0 +1,5 @@
+## Codigo server ##
+
+```
+npm installa
+```
